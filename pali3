@@ -35,5 +35,5 @@ git clone https://github.com/celestiaorg/networks.git
 
 --------------------------
 CELESTIA_NODENAME="pali2" 
-CELESTIA_WALLET="WALLET"
+CELESTIA_WALLET="WALLET2"
 CELESTIA_CHAIN="mamaki"
