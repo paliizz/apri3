@@ -19,7 +19,7 @@ cd $HOME
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
-git checkout v0.6.0
+git checkout v0.6.2
 make install
 
 -------------------------------------------------
@@ -34,6 +34,6 @@ rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
 
 --------------------------
-CELESTIA_NODENAME="pall3i" 
-CELESTIA_WALLET="WALLET1i"
+CELESTIA_NODENAME="palli3i" 
+CELESTIA_WALLET="WALLET1i3"
 CELESTIA_CHAIN="mamakii2"
