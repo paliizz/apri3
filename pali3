@@ -3,7 +3,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
-ver="1.32"
+ver="1.45"
 wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.gz"
@@ -34,6 +34,6 @@ rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
 
 --------------------------
-CELESTIA_NODENAME="T6o(ikjuium" 
+CELESTIA_NODENAME="T6o87um" 
 CELESTIA_WALLET="WAoikio6"
 CELESTIA_CHAIN="mamaoinB"
